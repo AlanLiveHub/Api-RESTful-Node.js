@@ -1,5 +1,13 @@
 # API RESTful com Node.js e MySQL
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-18.x+-339933?logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-4.x-000000?logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/MySQL-8.x-4479A1?logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Jest-^29.x-C21325?logo=jest&logoColor=white" alt="Jest">
+  <img src="https://img.shields.io/badge/License-ISC-blue.svg" alt="License ISC">
+</p>
+
 API RESTful completa construída com Node.js, Express e MySQL. O projeto possui arquitetura limpa, segurança, autenticação baseada em JWT, autorização por papéis e testes automatizados.
 
 ## ✨ Funcionalidades
