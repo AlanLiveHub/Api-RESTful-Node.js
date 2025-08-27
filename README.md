@@ -6,6 +6,12 @@
   <img src="https://img.shields.io/badge/MySQL-8.x-4479A1?logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Jest-^29.x-C21325?logo=jest&logoColor=white" alt="Jest">
   <img src="https://img.shields.io/badge/License-ISC-blue.svg" alt="License ISC">
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-ES2022-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <!-- Knex.js -->
+  <img src="https://img.shields.io/badge/Knex.js-SQL%20Builder-D1643B" alt="Knex.js">
+  <!-- JWT -->
+  <img src="https://img.shields.io/badge/JWT-JSON%20Web%20Token-000000?logo=jsonwebtokens&logoColor=white" alt="JWT">
 </p>
 
 API RESTful completa construída com Node.js, Express e MySQL. O projeto possui arquitetura limpa, segurança, autenticação baseada em JWT, autorização por papéis e testes automatizados.
